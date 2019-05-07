@@ -25,7 +25,7 @@ SECRET_KEY = 'fy4)6ff+sxp%yy9)7#_qh23z=tm_s3@$dn$je5xj(gu081abba'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['v']
+ALLOWED_HOSTS = ['hike.mtx.space']
 
 
 # Application definition
